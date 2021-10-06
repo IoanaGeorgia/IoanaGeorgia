@@ -7,8 +7,12 @@
 -  I think learning is a life-long process. Also, I like cats a lot. 😺 Looking forward to working with you.
 
 ##  Languages and Tools:
--HTML5
--CSS
--JS -beginner
--PYTHON -beginner
+
+- HTML5
+
+- CSS
+
+- JS -beginner
+
+- PYTHON -beginner
 
