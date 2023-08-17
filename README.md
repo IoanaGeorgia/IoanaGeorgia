@@ -8,13 +8,19 @@
 
 ##  Languages and Tools:
 
-- HTML5                                                                  - SASS
+- HTML5
 
-- CSS                                                                    - Github
+- CSS, SASS
 
-- JS                                                                     - VS Code, IntelliJ IDEA 
+- BootStrap Vue                                                                                                                                
 
-- Vue JS -intermediate                                                   - React -lower intermediate
+- JS                                                             
 
-- PYTHON -beginner                                                       - JQuery -beginner
+- Vue JS
+
+- React -lower intermediate
+
+- JQuery -beginner                                             
+
+- PYTHON -beginner                                                  
 
