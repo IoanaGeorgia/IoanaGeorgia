@@ -18,11 +18,8 @@
 
 - Vue JS
 
-- React -lower intermediate
-
-- JQuery -beginner                                             
-
-- PYTHON -beginner                                                  
+- React 
+                                                                                            
 
 ## StackBlitz projects
 
