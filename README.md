@@ -1,6 +1,6 @@
 ##  About Me
 
--  Hi! I am Ioana and I taught myself front-end development 💻.
+-  Hi! I am Ioana and I am a front-end developer 💻.
 
 -  If you know any way in which you think I can grow personally and professionally, don't hesitate to let me know 🙏
 
