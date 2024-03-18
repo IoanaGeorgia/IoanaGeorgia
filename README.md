@@ -8,9 +8,9 @@
 
 ##  Languages and Tools:
 
--VueJs
+- VueJs
 
--React
+- React
 
 - HTML5, CSS, SASS                                                                                                                  
 
