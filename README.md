@@ -8,17 +8,15 @@
 
 ##  Languages and Tools:
 
-- HTML5
+-VueJs
 
-- CSS, SASS
+-React
 
-- BootStrap Vue                                                                                                                                
+- HTML5, CSS, SASS                                                                                                                  
 
-- JS                                                             
+- JS, JQuery                                                             
 
-- Vue JS
-
-- React 
+- TypeScript  
                                                                                             
 
 ## StackBlitz projects
