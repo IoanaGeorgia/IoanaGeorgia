@@ -8,9 +8,9 @@
 
 ##  Languages and Tools:
 
-- VueJs
+- VueJs, Vuex, Vue Router
 
-- React
+- React, React Router, Redux
 
 - HTML5, CSS, SASS                                                                                                                  
 
