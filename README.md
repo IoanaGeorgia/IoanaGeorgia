@@ -10,7 +10,7 @@ Projects:
 
 -News site in React: https://ioanageorgia.github.io/first-light-local-newspaper/
 
--Vampire shop (LP only), no framework: https://ioanageorgia.github.io/vampire_shop/
+-Vampire shop React ( in progress): https://ioanageorgia.github.io/vampire_shop/
                                                                                             
 
 ## StackBlitz projects
