@@ -5,11 +5,13 @@
 -  If you know any way in which you think I can grow personally and professionally, don't hesitate to let me know 🙏
 
 -  I think learning is a life-long process. Also, I like cats a lot. 😺 Looking forward to working with you.
+
+Projects:
+
+-News site in React: https://ioanageorgia.github.io/first-light-local-newspaper/
                                                                                             
 
 ## StackBlitz projects
-
--News site in React: https://ioanageorgia.github.io/first-light-local-newspaper/
 
 -Country Game in Vue: https://stackblitz.com/edit/vue-f462ub?file=README.md
 
