@@ -11,6 +11,8 @@ Projects:
 -News site in React: https://ioanageorgia.github.io/first-light-local-newspaper/
 
 -Vampire shop React ( in progress): https://ioanageorgia.github.io/vampire_shop/
+
+-Star shop React (in progress) : https://ioanageorgia.github.io/Star-Shop
                                                                                             
 
 ## StackBlitz projects
