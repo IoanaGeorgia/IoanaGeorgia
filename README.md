@@ -13,6 +13,8 @@ Projects:
 -Vampire shop React ( in progress): https://ioanageorgia.github.io/vampire_shop/
 
 -Star shop React (in progress) : https://ioanageorgia.github.io/Star-Shop
+
+-Poems site in Vue (in progress) : https://ioanageorgia.github.io/Latima/
                                                                                             
 
 ## StackBlitz projects
