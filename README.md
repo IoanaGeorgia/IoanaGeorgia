@@ -23,5 +23,4 @@ Projects:
 
 -Weather App in Vue: https://stackblitz.com/edit/vue-3aaux4?file=README.md
 
--Random quote generator with React: https://stackblitz.com/edit/stackblitz-starters-9cbqf3?file=README.md
 
