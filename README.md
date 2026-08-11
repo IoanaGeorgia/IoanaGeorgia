@@ -8,19 +8,15 @@
 
 Projects:
 
--News site in React: https://ioanageorgia.github.io/first-light-local-newspaper/
+-First Light (React): https://ioanageorgia.github.io/first-light-local-newspaper/
 
--Vampire shop React ( in progress): https://ioanageorgia.github.io/vampire_shop/
+-CasaFashion (React): https://ioanageorgia.github.io/Redux-Shop
 
--Star shop React (in progress) : https://ioanageorgia.github.io/Star-Shop
+-Vampire shop(React, in progress): https://ioanageorgia.github.io/vampire_shop/
 
--Poems site in Vue (in progress) : https://ioanageorgia.github.io/Latima/
+-StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
+
+-Latima (Vue, in progress) : https://ioanageorgia.github.io/Latima/
                                                                                             
-
-## StackBlitz projects
-
--Cat Info Site in Vue (basic) https://stackblitz.com/edit/vue-bvibeg?file=src%2FApp.vue
-
--Weather App in Vue: https://stackblitz.com/edit/vue-3aaux4?file=README.md
 
 
