@@ -18,6 +18,8 @@ Projects:
 -StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
 
 -Latima (Vue, in progress) : https://ioanageorgia.github.io/Latima/
+
+-Where in the world (Vue, in progress) : https://ioanageorgia.github.io/flag-viewer/
                                                                                             
 
 
