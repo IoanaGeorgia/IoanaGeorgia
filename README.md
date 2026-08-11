@@ -6,6 +6,7 @@
 
 -  I think learning is a life-long process. Also, I like cats a lot. 😺 Looking forward to working with you.
 
+
 Projects:
 
 -First Light (React): https://ioanageorgia.github.io/first-light-local-newspaper/
