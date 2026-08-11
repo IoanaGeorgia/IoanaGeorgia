@@ -19,8 +19,6 @@ Projects:
 
 ## StackBlitz projects
 
--Country Game in Vue: https://stackblitz.com/edit/vue-f462ub?file=README.md
-
 -Cat Info Site in Vue (basic) https://stackblitz.com/edit/vue-bvibeg?file=src%2FApp.vue
 
 -Weather App in Vue: https://stackblitz.com/edit/vue-3aaux4?file=README.md
