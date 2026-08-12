@@ -1,6 +1,6 @@
 ##  About Me
 
--  Hi! I am Ioana and I am a front-end developer 💻.
+-  Hi! I am Ioana and I am a front-end and mobile developer 💻.
 
 -  If you know any way in which you think I can grow personally and professionally, don't hesitate to let me know 🙏
 
@@ -17,9 +17,9 @@ Projects:
 
 -StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
 
--Latima (Vue, in progress) : https://ioanageorgia.github.io/Latima/
+-Latima (Vue) : https://ioanageorgia.github.io/Latima/
 
--Where in the world (Vue, in progress) : https://ioanageorgia.github.io/flag-viewer/
+-Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
                                                                                             
 
 
