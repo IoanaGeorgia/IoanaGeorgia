@@ -22,6 +22,9 @@ Projects:
 -Latima (Vue) : https://ioanageorgia.github.io/Latima/
 
 -Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
+
+-Rotario (React) : https://github.com/IoanaGeorgia/Rotario
++ Backend (Laravel): https://github.com/IoanaGeorgia/Rotario_BE
                                                                                             
 
 
