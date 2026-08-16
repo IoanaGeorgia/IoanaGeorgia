@@ -11,7 +11,7 @@ Projects:
 
 -First Light (React): https://ioanageorgia.github.io/first-light-local-newspaper/
 
--CasaFashion (React): https://ioanageorgia.github.io/Redux-Shop
+-CasaFashion (React, in progress): https://ioanageorgia.github.io/Redux-Shop
 
 -Cartea micii vrajitoare (NextJS, in progress): https://github.com/IoanaGeorgia/mica-vrajitoare
 
