@@ -20,9 +20,9 @@ Projects:
 -StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
 
 -Latima (Vue) : https://ioanageorgia.github.io/Latima/
-With the fullstack version also in progress (NodeJs and MongoDB)
-BE: https://github.com/IoanaGeorgia/LatimaBE
-FE: https://github.com/IoanaGeorgia/LatimaFEforBE
+-With the fullstack version also in progress (NodeJs and MongoDB)
+-BE: https://github.com/IoanaGeorgia/LatimaBE
+-FE: https://github.com/IoanaGeorgia/LatimaFEforBE
 
 -Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
 
