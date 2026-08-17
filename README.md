@@ -19,7 +19,7 @@ Projects:
 
 -StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
 
-- Latima (Vue): [https://ioanageorgia.github.io/Latima/](https://ioanageorgia.github.io/Latima/)
+-Latima (Vue): [https://ioanageorgia.github.io/Latima/](https://ioanageorgia.github.io/Latima/)
   - Fullstack Version (In Progress - Node.js & MongoDB):
     - Backend (BE): [https://github.com/IoanaGeorgia/LatimaBE](https://github.com/IoanaGeorgia/LatimaBE)
     - Frontend (FE): [https://github.com/IoanaGeorgia/LatimaFEforBE](https://github.com/IoanaGeorgia/LatimaFEforBE)
