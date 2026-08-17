@@ -13,7 +13,7 @@ Projects:
 
 -CasaFashion (React, in progress): https://ioanageorgia.github.io/Redux-Shop
 
--Cartea micii vrajitoare (NextJS, in progress): https://mica-vrajitoare.vercel.app/
+-Cartea micii vrajitoare (NextJS): https://mica-vrajitoare.vercel.app/
 
 -Vampire shop(React, in progress): https://ioanageorgia.github.io/vampire_shop/
 
