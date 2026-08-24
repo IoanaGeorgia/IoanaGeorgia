@@ -19,7 +19,7 @@ Projects:
 
 -StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
 
--Latima (Vue, hosted cu Vercel, Render si MongoDB free tiers): https://latima-feforbe.vercel.app/
+-Latima (Vue, hosted with Vercel, Render si MongoDB free tiers, so please refresh many times to start the services): https://latima-feforbe.vercel.app/
   - Fullstack Version (In Progress - Node.js & MongoDB):
     - Backend (BE): [https://github.com/IoanaGeorgia/LatimaBE](https://github.com/IoanaGeorgia/LatimaBE)
     - Frontend (FE): [https://github.com/IoanaGeorgia/LatimaFEforBE](https://github.com/IoanaGeorgia/LatimaFEforBE)
