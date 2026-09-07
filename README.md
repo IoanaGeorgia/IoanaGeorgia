@@ -17,7 +17,7 @@ Projects:
 
 -Vampire shop(React, in progress): https://ioanageorgia.github.io/vampire_shop/
 
--StellSi (React, Node.js, MySQL, hosted both backend and frontend on Render free tiers, database on Neon.Tech, in progress): [https://ioanageorgia.github.io/Star-Shop](https://stellsi.onrender.com/)
+-StellSi (React, Node.js, MySQL, hosted both backend and frontend on Render free tiers, database on Neon.Tech, in progress): https://stellsi.onrender.com/
 - Backend: https://github.com/IoanaGeorgia/StellSi_Backend
 - Frontend: https://github.com/IoanaGeorgia/Star-Shop
 
