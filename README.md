@@ -17,12 +17,13 @@ Projects:
 
 -Vampire shop(React, in progress): https://ioanageorgia.github.io/vampire_shop/
 
--StellSi (React, in progress) : https://ioanageorgia.github.io/Star-Shop
+-StellSi (React, Node.js, MySQL, hosted both backend and frontend on Render free tiers, database on Neon.Tech, in progress): [https://ioanageorgia.github.io/Star-Shop](https://stellsi.onrender.com/)
+-Backend: https://github.com/IoanaGeorgia/StellSi_Backend
+-Frontend: https://github.com/IoanaGeorgia/Star-Shop
 
--Latima (Vue, hosted with Vercel, Render si MongoDB free tiers, so please refresh many times to start the services): https://latima-feforbe.vercel.app/
-  - Fullstack Version (In Progress - Node.js & MongoDB):
-    - Backend (BE): [https://github.com/IoanaGeorgia/LatimaBE](https://github.com/IoanaGeorgia/LatimaBE)
-    - Frontend (FE): [https://github.com/IoanaGeorgia/LatimaFEforBE](https://github.com/IoanaGeorgia/LatimaFEforBE)
+-Latima (Vue, Node.js, MongoDB, hosted with Vercel, Render si MongoDB free tiers, so please refresh many times to start the services): https://latima-feforbe.vercel.app/
+- Backend: https://github.com/IoanaGeorgia/LatimaBE
+- Frontend: https://github.com/IoanaGeorgia/LatimaFEforBE
 
 -Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
 
