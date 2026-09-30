@@ -11,11 +11,11 @@ Projects:
 
 -First Light (React): https://ioanageorgia.github.io/first-light-local-newspaper/
 
--CasaFashion (React, Node.js, in progress): [https://ioanageorgia.github.io/Redux-Shop](https://github.com/IoanaGeorgia/Redux-Shop)
-
 -Cartea micii vrajitoare (NextJS, images hosted on cloudbinary free tier so they might expire): https://mica-vrajitoare.vercel.app/
 
 -Vampire shop(React, in progress): https://ioanageorgia.github.io/vampire_shop/
+
+-Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
 
 -StellSi (React, Node.js, SQL, hosted both backend and frontend on Render free tiers, database on Neon.Tech, in progress): https://stellsi.onrender.com/
 - Backend: https://github.com/IoanaGeorgia/StellSi_Backend
@@ -25,7 +25,11 @@ Projects:
 - Backend: https://github.com/IoanaGeorgia/LatimaBE
 - Frontend: https://github.com/IoanaGeorgia/LatimaFEforBE
 
--Where in the world (Vue) : https://ioanageorgia.github.io/flag-viewer/
+-CasaFashion (React, Node.js, in progress): [https://ioanageorgia.github.io/Redux-Shop](https://github.com/IoanaGeorgia/Redux-Shop)
+- Frontend: https://ioanageorgia.github.io/Redux-Shop
+- Backend: https://github.com/IoanaGeorgia/Redux-Shop_Backend
+
+
 
                                                                                             
 
